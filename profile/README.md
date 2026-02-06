@@ -1,10 +1,10 @@
-# CFSAN Biostatistics Software Projects
+# FDA-HFP Software Projects
 
-Welcome to the software portfolio of the FDA Center for Food Safety and Applied Nutrition (CFSAN) Biostatistics group, part of the Human Foods Program. This organization develops and maintains bioinformatics tools and pipelines for genomic surveillance, pathogen detection, and food safety applications.
+Welcome to the software portfolio of the FDA Human Foods Program Biostatistics group. This organization develops and maintains bioinformatics tools and pipelines for genomic surveillance, pathogen detection, and food safety applications.
 
 ## Overview
 
-The CFSAN Biostatistics team develops computational tools for analyzing whole genome sequencing (WGS) data from foodborne pathogens. Our software supports outbreak investigation, pathogen characterization, and regulatory decision-making to protect public health. The tools range from SNP analysis pipelines to serotyping tools, metagenomic classifiers, and workflow frameworks.
+The Biostatistics team develops computational tools for analyzing whole genome sequencing (WGS) data from foodborne pathogens. Our software supports outbreak investigation, pathogen characterization, and regulatory decision-making to protect public health. The tools range from SNP analysis pipelines to serotyping tools, metagenomic classifiers, and workflow frameworks.
 
 ---
 
@@ -164,15 +164,15 @@ RIPS (Rapid Intuitive Pathogen Surveillance) is an R-based tool for streamlined 
 
 ---
 
-## About CFSAN Biostatistics
+## About HFP Biostatistics
 
-The Center for Food Safety and Applied Nutrition (CFSAN) is one of six product-oriented centers within the FDA that regulates food, dietary supplements, and cosmetics. The Biostatistics group develops computational methods and software tools to support the Human Foods Program's mission of protecting public health through science-based regulation.
+The Biostatistics group develops computational methods and software tools to support the Human Foods Program's mission of protecting public health through science-based regulation.
 
 Our software development follows open-source principles, with most tools available under permissive licenses. We welcome community contributions, bug reports, and feature requests through GitHub issues. For questions about specific tools, please refer to individual repository documentation.
 
 ## Citation and Contact
 
-When using these tools in published research, please cite the original publications listed in each repository's documentation. For general inquiries about CFSAN bioinformatics tools, please open an issue in the relevant repository or contact the FDA Human Foods Program.
+When using these tools in published research, please cite the original publications listed in each repository's documentation. For general inquiries about HFP bioinformatics tools, please open an issue in the relevant repository or contact the FDA Human Foods Program.
 
 ---
 
